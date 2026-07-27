@@ -6,9 +6,9 @@
 <title>桌遊產業週報</title>
 <style>
   :root{
-    --bg:#0d0d0d; --bg2:#171717; --card:#1e1e1e; --card2:#262626;
-    --accent:#d9d9d9; --accent2:#bdbdbd; --line:#3a3a3a;
-    --text:#ffffff; --muted:#999999; --dim:#6b6b6b; --good:#e5e5e5;
+    --bg:#e5e4e0; --bg2:#dad9d4; --card:#f5f4f1; --card2:#ececea;
+    --accent:#9c1c1c; --accent2:#701414; --line:#c3c1ba;
+    --text:#1a1917; --muted:#57544e; --dim:#87837b; --good:#701414;
   }
   *{box-sizing:border-box;margin:0;padding:0}
   body{background:var(--bg);color:var(--text);font-family:"Noto Sans TC","PingFang TC","Microsoft JhengHei",system-ui,sans-serif;line-height:1.65;-webkit-font-smoothing:antialiased}
@@ -21,14 +21,14 @@
   .intro{color:var(--muted);font-size:14px;margin:18px 0 30px;padding:14px 16px;background:var(--bg2);border-radius:10px;border-left:3px solid var(--accent)}
   section{margin:34px 0}
   .sec-head{display:flex;align-items:center;gap:12px;margin-bottom:16px}
-  .sec-num{background:var(--accent);color:#111111;font-weight:800;width:30px;height:30px;border-radius:8px;display:grid;place-items:center;font-size:15px;flex:0 0 auto}
+  .sec-num{background:var(--accent);color:#ffffff;font-weight:800;width:30px;height:30px;border-radius:8px;display:grid;place-items:center;font-size:15px;flex:0 0 auto}
   .sec-head h2{font-size:20px;font-weight:800}
   .sec-head .en{color:var(--dim);font-size:12px;font-weight:600;letter-spacing:.08em;margin-left:auto}
   .grid{display:grid;gap:14px}
   .card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:16px 18px;transition:border-color .15s,transform .15s}
   .card:hover{border-color:var(--accent);transform:translateY(-2px)}
   .card .top{display:flex;justify-content:space-between;align-items:baseline;gap:10px;margin-bottom:6px}
-  .card h3{font-size:16px;font-weight:700;color:#fff}
+  .card h3{font-size:16px;font-weight:700;color:var(--text)}
   .date{color:var(--accent2);font-size:12px;font-weight:700;white-space:nowrap;flex:0 0 auto}
   .card p{color:var(--muted);font-size:14px;margin-bottom:10px}
   .src{font-size:12px;font-weight:600}
@@ -40,8 +40,8 @@
   .fig{background:var(--card2);border:1px solid var(--line);border-radius:10px;padding:14px}
   .fig .n{font-size:22px;font-weight:800;color:var(--accent2)}
   .fig .l{font-size:12px;color:var(--muted);margin-top:2px}
-  .tw{border-color:#444444}
-  .tw .sec-num{background:var(--good);color:#111111}
+  .tw{border-color:var(--accent2)}
+  .tw .sec-num{background:var(--good);color:#ffffff}
   footer{margin-top:48px;border-top:1px solid var(--line);padding-top:22px}
   footer h4{font-size:13px;color:var(--muted);letter-spacing:.1em;text-transform:uppercase;margin-bottom:12px}
   .srclist{columns:2;column-gap:26px;font-size:12.5px}

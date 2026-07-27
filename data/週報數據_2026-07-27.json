@@ -1,0 +1,153 @@
+{
+  "headline": "本週桌遊產業速覽",
+  "range": "2026 年 7 月 21 日 ～ 7 月 27 日",
+  "date": "2026-07-27",
+  "intro": "本週最大焦點是<b style=\"color:var(--accent2)\">北美旗艦展會 Gen Con Indy</b> 即將於 7/30 開跑，牽動整個下半年新品節奏；產業端 Osprey Games 出售案仍在進行，德國 SPIEL Essen 也確定首度啟用全部八個展館。以下依四大面向整理，並附台灣在地動態。",
+  "sections": [
+    {
+      "num": "1", "title": "市場規模與趨勢", "en": "MARKET",
+      "cards": [
+        {
+          "title": "2026 全球桌遊市場估值：各機構差距大，約 143～220 億美元",
+          "date": "本週彙整",
+          "body": "不同市場研究機構對 2026 年全球桌遊（board games）市場規模給出明顯不同的估值與成長率，反映口徑與範圍差異，引用時務必留意來源與區間：",
+          "figs": [
+            {"value": "$14.3B", "label": "Coherent Market Insights<br>CAGR ≈ 5.6%（至2033）"},
+            {"value": "$17.45B", "label": "Fortune Business Insights<br>CAGR ≈ 10.7%（至2034）"},
+            {"value": "$21.97B", "label": "Polaris Market Research<br>CAGR ≈ 9.1%（至2034）"}
+          ],
+          "foot": "※ 上述為第三方市調預測值而非實際銷售統計，區間落差大，僅供趨勢參考。",
+          "sources": [
+            {"name": "Coherent", "url": "https://www.coherentmarketinsights.com/industry-reports/board-game-market"},
+            {"name": "Fortune BI", "url": "https://www.fortunebusinessinsights.com/board-games-market-104972"},
+            {"name": "Polaris", "url": "https://www.polarismarketresearch.com/industry-analysis/board-games-market"}
+          ]
+        }
+      ]
+    },
+    {
+      "num": "2", "title": "熱門新品與募資", "en": "RELEASES & CROWDFUNDING",
+      "cards": [
+        {
+          "title": "本週募資精選：太空、封建日本林業、Kabuto Sumo Dice、Galileo's Truth",
+          "date": "7/20",
+          "tag": "Kickstarter · Gamefound",
+          "body": "Board Game Quest 本週募資回顧點名多款進行中專案：一款 1–6 人太空遊戲（Gamefound）、以封建日本永續林業為題的工人擺放（Kickstarter）、《Kabuto Sumo Dice》以及競爭型 euro 遊戲《Galileo's Truth》。",
+          "sources": [
+            {"name": "Board Game Quest — 本週募資精選 7/20/26", "url": "https://www.boardgamequest.com/crowdfunding-campaigns-of-the-week-7-20-26/"}
+          ]
+        },
+        {
+          "title": "Meeple Mountain 募資總覽持續更新，Terraforming Mars Legacy 為年度期待作",
+          "date": "本週",
+          "body": "Meeple Mountain 的 Crowdfunding Roundup 持續彙整各平台熱門案；2026 年度備受期待的《Terraforming Mars Legacy》續在追蹤名單之列。",
+          "sources": [
+            {"name": "Meeple Mountain — Crowdfunding Roundup", "url": "https://www.meeplemountain.com/crowdfunding/"}
+          ]
+        },
+        {
+          "title": "獎項回顧：JinxO 拿下 2026 年德國年度遊戲大獎（Spiel des Jahres）",
+          "date": "7/12 公布",
+          "body": "Martin Ang 設計的文字聯想派對遊戲《JinxO》擊敗《Cozy Stickerville》與《Morty Sorty Magic Shop》奪下年度大獎；《Rebirth》拿下專家大獎（為 Reiner Knizia 締造歷史性三冠），《Mooki Island》獲兒童遊戲獎。此獎對後續銷售與熱度影響深遠，列此供參考。",
+          "sources": [
+            {"name": "BoardGameWire", "url": "https://boardgamewire.com/index.php/2026/07/13/jinxo-wins-2026-spiel-des-jahres-rebirth-secures-historic-triple-for-reiner-knizia/"},
+            {"name": "ICv2", "url": "https://icv2.com/articles/news/view/62835/spiel-des-jahres-winner-announced"}
+          ]
+        }
+      ]
+    },
+    {
+      "num": "3", "title": "產業公司與商業", "en": "BUSINESS & M&A",
+      "cards": [
+        {
+          "title": "Osprey Games 出售案持續進行：母公司 Bloomsbury 尋找新買家",
+          "date": "進行中",
+          "body": "《Undaunted》系列與《Cryptid》出版商 Osprey Games 自 5 月起停止委製新桌上與卡牌遊戲，母公司 Bloomsbury Publishing 正為其桌遊業務尋找新東家，既有品項仍將持續發行、銷售與授權。本週仍為進行式，尚無確定買家。",
+          "sources": [
+            {"name": "BoardGameWire", "url": "https://boardgamewire.com/index.php/2026/05/13/undaunted-publisher-ospreys-board-game-operation-to-be-sold-off-by-owner-bloomsbury-publishing/"}
+          ]
+        },
+        {
+          "title": "Slitherine 自 NACON 取得 Blood Bowl 授權（GW IP，數位版為主）",
+          "date": "7/1",
+          "body": "Slitherine 宣布自 NACON 取得 Games Workshop 旗下《Blood Bowl》的<strong>電子遊戲</strong>授權與發行權，並續與 Cyanide 團隊合作。此為桌上戰棋 IP 的數位化動態（非桌遊本體交易），Slitherine 於 7/22 的 Next 展會進一步說明後續規劃。",
+          "sources": [
+            {"name": "PC Gamer", "url": "https://www.pcgamer.com/games/sports/blood-bowls-videogame-rights-have-been-acquired-by-slitherine-and-at-this-point-ill-take-any-change-as-a-good-sign/"},
+            {"name": "Tabletop Battles", "url": "https://www.tabletopbattles.com/games-industry-news-roundup-july-7th-2026"}
+          ]
+        }
+      ]
+    },
+    {
+      "num": "4", "title": "展會與活動", "en": "EVENTS",
+      "cards": [
+        {
+          "title": "Gen Con Indy 2026 下週登場：北美旗艦桌遊週",
+          "date": "7/30–8/2",
+          "tag": "本週焦點",
+          "body": "北美最大桌遊盛會將於 7 月 30 日至 8 月 2 日在印第安納波利斯舉行，預計 70,000+ 玩家、20,000+ 場次活動，數百家參展商將於此發表新品、辦錦標賽與試玩，是設定下半年產業節奏的關鍵一週。",
+          "sources": [
+            {"name": "Gen Con 官方", "url": "https://www.gencon.com/"},
+            {"name": "FanCons", "url": "https://fancons.com/events/info/26507/gen-con-2026"}
+          ]
+        },
+        {
+          "title": "SPIEL Essen 2026 確定首度啟用全部八個展館",
+          "date": "10/22–25",
+          "body": "全球最大桌遊展 SPIEL Essen 將於 10 月 22–25 日於德國 Messe Essen 舉行，2026 年首度使用全部八個展館、共 81,200 平方公尺，約 950 家參展商、預估 220,000+ 名觀眾。距今尚有時間，惟規模創新高值得關注。",
+          "sources": [
+            {"name": "SPIEL Essen 官方", "url": "https://www.spiel-essen.de/en/"},
+            {"name": "Showsbee", "url": "https://www.showsbee.com/fairs/67065-SPIEL-ESSEN-2026.html"}
+          ]
+        }
+      ]
+    },
+    {
+      "num": "★", "title": "台灣在地動態", "en": "TAIWAN", "tw": true,
+      "none": "本週台灣桌遊圈無突發性重大商業／併購新聞；主要動態集中於既定展會籌備與持續進行中的集資專案。",
+      "cards": [
+        {
+          "tw": true,
+          "title": "台灣新銳桌遊博覽會（TOBExpo）2026 定檔 9/25–27",
+          "date": "9/25–27",
+          "body": "台灣最大桌遊展台灣新銳桌遊博覽會將於 9 月 25 至 27 日舉辦，號召 80+ 家國內外出版社、上百位設計師，預計推出數百款新作，為在地團隊年度發表重心。",
+          "sources": [
+            {"name": "TOBExpo 官方", "url": "https://www.facebook.com/TOBEXPO/?locale=zh_TW"},
+            {"name": "新銳桌遊展 IG", "url": "https://www.instagram.com/taiwanbgexpo/"}
+          ]
+        },
+        {
+          "tw": true,
+          "title": "在地募資：嘖嘖桌遊專案持續，文化題材受注目",
+          "date": "本週",
+          "body": "嘖嘖（zeczec）遊戲類別持續有桌遊集資案，如以台灣陣頭文化為題的《桌遊陣頭》等，反映在地創作者運用群眾集資推出文化題材作品的趨勢。TBD 台灣桌遊設計亦持續更新活動與集資觀察。",
+          "sources": [
+            {"name": "嘖嘖 遊戲集資", "url": "https://www.zeczec.com/categories?category=13&type=crowdfunding"},
+            {"name": "TBD 活動訊息", "url": "https://www.tbd.com.tw/blogs/events"}
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {"name": "Board Game Quest — 本週募資精選 7/20/26", "url": "https://www.boardgamequest.com/crowdfunding-campaigns-of-the-week-7-20-26/"},
+    {"name": "Meeple Mountain — Crowdfunding Roundup", "url": "https://www.meeplemountain.com/crowdfunding/"},
+    {"name": "BoardGameWire — JinxO 奪 Spiel des Jahres 2026", "url": "https://boardgamewire.com/index.php/2026/07/13/jinxo-wins-2026-spiel-des-jahres-rebirth-secures-historic-triple-for-reiner-knizia/"},
+    {"name": "ICv2 — Spiel des Jahres Winner", "url": "https://icv2.com/articles/news/view/62835/spiel-des-jahres-winner-announced"},
+    {"name": "BoardGameWire — Osprey Games 出售案", "url": "https://boardgamewire.com/index.php/2026/05/13/undaunted-publisher-ospreys-board-game-operation-to-be-sold-off-by-owner-bloomsbury-publishing/"},
+    {"name": "PC Gamer — Slitherine 取得 Blood Bowl 授權", "url": "https://www.pcgamer.com/games/sports/blood-bowls-videogame-rights-have-been-acquired-by-slitherine-and-at-this-point-ill-take-any-change-as-a-good-sign/"},
+    {"name": "Tabletop Battles — 產業新聞彙整 7/7", "url": "https://www.tabletopbattles.com/games-industry-news-roundup-july-7th-2026"},
+    {"name": "Gen Con Indy 2026 官方", "url": "https://www.gencon.com/"},
+    {"name": "FanCons — Gen Con 2026 資訊", "url": "https://fancons.com/events/info/26507/gen-con-2026"},
+    {"name": "SPIEL Essen 2026 官方", "url": "https://www.spiel-essen.de/en/"},
+    {"name": "Showsbee — SPIEL Essen 2026", "url": "https://www.showsbee.com/fairs/67065-SPIEL-ESSEN-2026.html"},
+    {"name": "Coherent Market Insights — 市場規模", "url": "https://www.coherentmarketinsights.com/industry-reports/board-game-market"},
+    {"name": "Fortune Business Insights — 市場規模", "url": "https://www.fortunebusinessinsights.com/board-games-market-104972"},
+    {"name": "Polaris Market Research — 市場規模", "url": "https://www.polarismarketresearch.com/industry-analysis/board-games-market"},
+    {"name": "台灣新銳桌遊博覽會 TOBExpo", "url": "https://www.facebook.com/TOBEXPO/?locale=zh_TW"},
+    {"name": "新銳桌遊展 Instagram", "url": "https://www.instagram.com/taiwanbgexpo/"},
+    {"name": "嘖嘖 zeczec — 遊戲集資", "url": "https://www.zeczec.com/categories?category=13&type=crowdfunding"},
+    {"name": "TBD 台灣桌遊設計 — 活動訊息", "url": "https://www.tbd.com.tw/blogs/events"}
+  ],
+  "footnote": "本週報由自動化任務彙整自公開網路來源，報導區間為 2026/07/21–07/27（部分具指標意義之近期消息如 Spiel des Jahres、Blood Bowl 授權亦納入並標註實際日期）。市場規模數字為第三方市調機構之預測值，各家口徑不同、區間差距大，僅供趨勢參考，不代表實際銷售。連結有效性以來源網站為準。"
+}
